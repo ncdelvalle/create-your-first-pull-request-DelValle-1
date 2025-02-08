@@ -5,3 +5,7 @@ discuss topics that covers full-stack development and some about
 databases specific to web dev use. I'm also looking forward to work 
 in a team to explore different insights about the course and its 
 application in our field.
+
+I agree with your expectations since they align with mine as well. 
+Developing full-stack development skills is also one of the skills
+I expect to gain from CMSC 100.
