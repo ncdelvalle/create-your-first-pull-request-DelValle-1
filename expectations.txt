@@ -1,0 +1,7 @@
+My expectation for CMSC 100 is that it will bootstrap myself in 
+web development with skills that complements the pre-acquired ones 
+from previous courses like CMSC 12 and 22. I expect the course to 
+discuss topics that covers full-stack development and some about 
+databases specific to web dev use. I'm also looking forward to work 
+in a team to explore different insights about the course and its 
+application in our field.
